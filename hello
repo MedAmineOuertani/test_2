@@ -1,7 +1,39 @@
-adfdasfasdfdsafdsafasfasdfdasfadsf
-adfasfasdfdas
-adsfasdfasdfasdafasdfdsf
-asdfsdfasdf
-asdfasdfasdfdsdsfgdfsgdsfg
-fdfsgdsfgdsfgf
-fsdfgdfgdfsg
+{
+	"random": "35",
+	"random float": "83.733",
+	"bool": "false",
+	"date": "1993-06-23",
+	"regEx": "helloooooooooooooooooooooooooo to you",
+	"enum": "json",
+	"firstname": "Dorthy",
+	"lastname": "Boycey",
+	"city": "Malmö",
+	"country": "Saint Lucia",
+	"countryCode": "IL",
+	"email uses current data": "Dorthy.Boycey@gmail.com",
+	"email from expression": "Dorthy.Boycey@yopmail.com",
+	"array": [
+		"Fernande",
+		"June",
+		"Larine",
+		"Frieda",
+		"Jaclyn"
+	],
+	"array of objects": [
+		{
+			"index": "0",
+			"index start at 5": "5"
+		},
+		{
+			"index": "1",
+			"index start at 5": "6"
+		},
+		{
+			"index": "2",
+			"index start at 5": "7"
+		}
+	],
+	"Aigneis": {
+		"age": "82"
+	}
+}
